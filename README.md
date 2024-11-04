@@ -29,11 +29,4 @@ The **Water Management Reporting System** is a web-based platform designed to id
 4. **Encouraging Community Participation**:  
    - The platform not only provides a place for reporting issues but also fosters dialogue and collaboration among stakeholders.  
 
-## Installation  
 
-To set up the project locally, follow these steps:  
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/anu-354/A-Web-Based-System-for-Community-Driven-Water-Issue-Detection.git  
-   cd A-Web-Based-System-for-Community-Driven-Water-Issue-Detection
