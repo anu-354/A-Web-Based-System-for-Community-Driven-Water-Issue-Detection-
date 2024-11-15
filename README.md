@@ -37,15 +37,15 @@ The **Water Management Reporting System** is a web-based platform designed to id
 
 2.Post Page:
 
-![](assets/Post page.png)
+![](assets/Postpage.png)
 
 3.Mail alret:
 
-![](assets/Mail alert.png)
+![](assets/Mailalert.png)
 
 4.Maps page:
 
-![](assets/Maps page.png)
+![](assets/Mapspage.png)
 
 
 
