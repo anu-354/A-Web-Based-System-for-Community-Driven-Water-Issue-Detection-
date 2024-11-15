@@ -47,7 +47,7 @@ The **Water Management Reporting System** is a web-based platform designed to id
 
 ![](assets/Mapspage.png)
 
-##conclusion:
+## conclusion:
 
 This platform empowers communities to report water issues directly to authorities, improving water management and disaster preparedness. Future developments include enhanced data analysis for faster, more reliable problem detection from user-uploaded images, integration of gamification to encourage user engagement, and sensor integrations (e.g., water meters, pollution sensors) to enable accurate decision-making.
 
